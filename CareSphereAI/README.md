@@ -4,8 +4,8 @@
 > Track 3: Vital Signs — Healthcare & Wellbeing  
 > Team: GDG UTM
 
-**Live Demo:** https://care-sphere-ai.vercel.app  
-**Backend API:** https://caresphere-619975700397.asia-southeast1.run.app
+**Live Demo:** 
+**Backend API:** 
 
 ---
 
